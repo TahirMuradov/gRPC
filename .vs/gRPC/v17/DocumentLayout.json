@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\services\\bidirectionalmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\services\\bidirectionalmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\services\\clientstreammessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\services\\clientstreammessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\test\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|solutionrelative:test\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcclient\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|solutionrelative:grpcclient\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|solutionrelative:grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\test\\protos\\bidirectionalmessage.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{17956736-C2AF-42F5-9A73-E844E3014479}|Test\\Test.csproj|solutionrelative:test\\protos\\bidirectionalmessage.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +82,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clientStreamMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\clientStreamMessageService.cs",
+              "RelativeDocumentMoniker": "gRPCServer\\Services\\clientStreamMessageService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\clientStreamMessageService.cs",
+              "RelativeToolTip": "gRPCServer\\Services\\clientStreamMessageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:56:45.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BiDirectionalMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\BiDirectionalMessageService.cs",
+              "RelativeDocumentMoniker": "gRPCServer\\Services\\BiDirectionalMessageService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\BiDirectionalMessageService.cs",
+              "RelativeToolTip": "gRPCServer\\Services\\BiDirectionalMessageService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:53:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gRPCClient.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\gRPCClient.csproj",
+              "RelativeDocumentMoniker": "gRPCClient\\gRPCClient.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\gRPCClient.csproj",
+              "RelativeToolTip": "gRPCClient\\gRPCClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T10:44:39.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BiDirectionalMessage.proto",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Protos\\BiDirectionalMessage.proto",
+              "RelativeDocumentMoniker": "Test\\Protos\\BiDirectionalMessage.proto",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Protos\\BiDirectionalMessage.proto",
+              "RelativeToolTip": "Test\\Protos\\BiDirectionalMessage.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-05T10:44:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T10:44:04.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:43:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "gRPCClient\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "gRPCClient\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwGAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:47:04.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Dockerfile",
+              "RelativeDocumentMoniker": "Test\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\Test\\Dockerfile",
+              "RelativeToolTip": "Test\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-05T10:48:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Program.cs",
               "RelativeDocumentMoniker": "gRPCServer\\Program.cs",
@@ -62,12 +191,11 @@
               "RelativeToolTip": "gRPCServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:21:43.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T06:21:43.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "gRPCServer.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\gRPCServer.csproj",
               "RelativeDocumentMoniker": "gRPCServer\\gRPCServer.csproj",
@@ -75,50 +203,31 @@
               "RelativeToolTip": "gRPCServer\\gRPCServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T06:19:30.857Z"
+              "WhenOpened": "2025-08-05T06:19:30.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "GreeterService.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\GreeterService.cs",
               "RelativeDocumentMoniker": "gRPCServer\\Services\\GreeterService.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\GreeterService.cs",
               "RelativeToolTip": "gRPCServer\\Services\\GreeterService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T06:17:57.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "gRPCClient\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "gRPCClient\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T06:17:50.883Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 117,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "greet.proto",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Protos\\greet.proto",
-              "RelativeDocumentMoniker": "gRPCServer\\Protos\\greet.proto",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Protos\\greet.proto",
-              "RelativeToolTip": "gRPCServer\\Protos\\greet.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-08-05T06:20:58.013Z",
-              "EditorCaption": ""
             }
           ]
         }

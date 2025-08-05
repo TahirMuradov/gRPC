@@ -14,11 +14,14 @@ namespace gRPCServer.Services
                   {
                       await Task.Delay(1000);
                       Console.WriteLine(requestStream.Current.Name + " " + requestStream.Current.Index);
-                      await responseStream.WriteAsync(new BiDirectionalMessageReply
+                      BiDirectionalMessageReply biDirectionalMessageReply = new BiDirectionalMessageReply
                       {
                           Message = $"Hello {requestStream.Current.Name}",
                           Index = requestStream.Current.Index
-                      });
+                      };
+
+                      Console.WriteLine($"Send Message to client {biDirectionalMessageReply.Index} " + biDirectionalMessageReply.Message);
+                      await responseStream.WriteAsync(biDirectionalMessageReply);
                   }
 
               });
