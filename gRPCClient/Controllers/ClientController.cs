@@ -34,7 +34,7 @@ namespace gRPCClient.Controllers
                 Name = "Tahir"
             });
             CancellationToken cancellationToken = new CancellationToken();
-            List<MessageReply> streamDatas = new  List<MessageReply>();
+            List<MessageReply> streamDatas = new List<MessageReply>();
             while (await responseStream.ResponseStream.MoveNext(cancellationToken))
             {
                 Console.WriteLine(responseStream.ResponseStream.Current.Message + " " + responseStream.ResponseStream.Current.Index);
@@ -42,5 +42,29 @@ namespace gRPCClient.Controllers
             }
             return Ok(JsonSerializer.Serialize(streamDatas));
         }
+   
+   [HttpGet("[action]")]
+        public async Task<IActionResult> GetClientStreamMessage()
+        {
+            var channel = GrpcChannel.ForAddress("http://localhost:5212");
+            var clientStreamMessage = new clientStreamMessage.clientStreamMessageClient(channel);
+            using (var call = clientStreamMessage.SayHello())
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                   await Task.Delay(1000);
+                    Console.WriteLine($"Sending message {i + 1}");
+                    await call.RequestStream.WriteAsync(new clientStreamMessageRequest
+                    {
+                        Name = "Tahir",
+                        Index = i
+                    });
+                }
+                await call.RequestStream.CompleteAsync();
+                var response = await call.ResponseAsync;
+                return Ok(response.Message);
+            }
+        }   
+   
     }
 }

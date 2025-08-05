@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/ClientStreamMessage.cs \
+obj\Debug\net8.0\Protos/ClientStreamMessageGrpc.cs: Protos/clientStreamMessage.proto

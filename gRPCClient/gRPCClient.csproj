@@ -8,9 +8,9 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 <ItemGroup>
-    <Protobuf Include="Protos\greet.proto" GrpcServices="Client" />
-    
+    <Protobuf Include="Protos\greet.proto" GrpcServices="Client" />    
     <Protobuf Include="Protos\streamMessage.proto" GrpcServices="Client" />
+    <Protobuf Include="Protos\clientStreamMessage.proto" GrpcServices="Client" />
     </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Google.Protobuf" Version="3.31.1" />
