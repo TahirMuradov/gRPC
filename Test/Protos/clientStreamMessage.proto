@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCServer";
+
+package clientStreamMessage;
+
+// The greeting service definition.
+service clientStreamMessage {
+  // Sends a greeting
+  rpc SayHello (stream clientStreamMessageRequest) returns ( clientStreamMessageReply);
+}
+
+// The request message containing the user's name.
+message clientStreamMessageRequest {
+  string name = 1;
+int32 index=2;
+}
+
+// The response message containing the greetings.
+message clientStreamMessageReply {
+  string message = 1;
+  
+}
