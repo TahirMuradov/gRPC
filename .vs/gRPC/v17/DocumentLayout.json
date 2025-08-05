@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcclient\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|solutionrelative:grpcclient\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Program.cs",
+              "RelativeDocumentMoniker": "gRPCServer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Program.cs",
+              "RelativeToolTip": "gRPCServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:21:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gRPCServer",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\gRPCServer.csproj",
+              "RelativeDocumentMoniker": "gRPCServer\\gRPCServer.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\gRPCServer.csproj",
+              "RelativeToolTip": "gRPCServer\\gRPCServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T06:19:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "gRPCServer\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Services\\GreeterService.cs",
+              "RelativeToolTip": "gRPCServer\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:17:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "gRPCClient\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "gRPCClient\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:17:50.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPCServer\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPCServer\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-05T06:20:58.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

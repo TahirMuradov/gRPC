@@ -1,0 +1,6 @@
+@gRPCClient_HostAddress = http://localhost:5195
+
+GET {{gRPCClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
