@@ -12,6 +12,7 @@
     <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />
     <Protobuf Include="Protos\streamMessage.proto" GrpcServices="Server" />
     <Protobuf Include="Protos\clientStreamMessage.proto" GrpcServices="Server" />
+    <Protobuf Include="Protos\BiDirectionalMessage.proto" GrpcServices="Server" />
   </ItemGroup>
 
   <ItemGroup>

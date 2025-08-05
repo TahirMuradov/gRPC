@@ -42,8 +42,8 @@ namespace gRPCClient.Controllers
             }
             return Ok(JsonSerializer.Serialize(streamDatas));
         }
-   
-   [HttpGet("[action]")]
+
+        [HttpGet("[action]")]
         public async Task<IActionResult> GetClientStreamMessage()
         {
             var channel = GrpcChannel.ForAddress("http://localhost:5212");
@@ -52,7 +52,7 @@ namespace gRPCClient.Controllers
             {
                 for (int i = 0; i < 5; i++)
                 {
-                   await Task.Delay(1000);
+                    await Task.Delay(1000);
                     Console.WriteLine($"Sending message {i + 1}");
                     await call.RequestStream.WriteAsync(new clientStreamMessageRequest
                     {
@@ -64,7 +64,41 @@ namespace gRPCClient.Controllers
                 var response = await call.ResponseAsync;
                 return Ok(response.Message);
             }
-        }   
-   
+        }
+
+        [HttpGet("[action]")]
+                public async Task<IActionResult> GetBiDirectionalMessage()
+                {
+                    var channel = GrpcChannel.ForAddress("http://localhost:5212");
+                    var biDirectionalMessage = new BiDirectionalMessage.BiDirectionalMessageClient(channel);
+            CancellationToken cancellationToken = new CancellationToken();
+            await Task.Run(async () =>
+            {
+ using (var call = biDirectionalMessage.SayHello())
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                    await Task.Delay(1000);
+                    Console.WriteLine($"Sending message {i + 1}");
+                    await call.RequestStream.WriteAsync(new BiDirectionalMessageRequest
+                    {
+                        Name = "Tahir",
+                        Index = i
+                    });
+                }
+                await call.RequestStream.CompleteAsync();
+                while (await call.ResponseStream.MoveNext(cancellationToken))
+                {
+                        Task.Delay(1000).Wait();
+                    Console.WriteLine(call.ResponseStream.Current.Message + " " + call.ResponseStream.Current.Index);
+                }
+            }
+
+            });
+                   
+
+            return Ok("Bi-directional communication completed.");
+                }
+          
     }
 }

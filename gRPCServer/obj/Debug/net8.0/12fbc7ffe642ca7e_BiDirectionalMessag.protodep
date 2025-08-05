@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/BiDirectionalMessag.cs \
+obj\Debug\net8.0\Protos/BiDirectionalMessagGrpc.cs: Protos/BiDirectionalMessag.proto
