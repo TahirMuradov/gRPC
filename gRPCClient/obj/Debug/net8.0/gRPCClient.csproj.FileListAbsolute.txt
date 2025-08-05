@@ -32,3 +32,4 @@ C:\Users\User\source\repos\libapp\gRPC\gRPCClient\obj\Debug\net8.0\refint\gRPCCl
 C:\Users\User\source\repos\libapp\gRPC\gRPCClient\obj\Debug\net8.0\gRPCClient.pdb
 C:\Users\User\source\repos\libapp\gRPC\gRPCClient\obj\Debug\net8.0\gRPCClient.genruntimeconfig.cache
 C:\Users\User\source\repos\libapp\gRPC\gRPCClient\obj\Debug\net8.0\ref\gRPCClient.dll
+C:\Users\User\source\repos\libapp\gRPC\gRPCClient\obj\Debug\net8.0\gRPCClient.sourcelink.json

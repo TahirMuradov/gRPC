@@ -30,3 +30,4 @@ C:\Users\User\source\repos\libapp\gRPC\gRPCServer\obj\Debug\net8.0\refint\gRPCSe
 C:\Users\User\source\repos\libapp\gRPC\gRPCServer\obj\Debug\net8.0\gRPCServer.pdb
 C:\Users\User\source\repos\libapp\gRPC\gRPCServer\obj\Debug\net8.0\gRPCServer.genruntimeconfig.cache
 C:\Users\User\source\repos\libapp\gRPC\gRPCServer\obj\Debug\net8.0\ref\gRPCServer.dll
+C:\Users\User\source\repos\libapp\gRPC\gRPCServer\obj\Debug\net8.0\gRPCServer.sourcelink.json

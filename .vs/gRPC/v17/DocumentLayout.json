@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{B4CF05E1-53BD-48E8-92F8-487D5C1B1790}|gRPCServer\\gRPCServer.csproj|solutionrelative:grpcserver\\grpcserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|c:\\users\\user\\source\\repos\\libapp\\grpc\\grpcclient\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E058F802-F769-45B7-A31A-96C28889FA6B}|gRPCClient\\gRPCClient.csproj|solutionrelative:grpcclient\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCClient\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gRPCClient\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,15 +68,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "gRPCServer",
+              "Title": "gRPCServer.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\gRPCServer.csproj",
               "RelativeDocumentMoniker": "gRPCServer\\gRPCServer.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\libapp\\gRPC\\gRPCServer\\gRPCServer.csproj",
               "RelativeToolTip": "gRPCServer\\gRPCServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T06:19:30.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T06:19:30.857Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "gRPCServer\\Services\\GreeterService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:17:57.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T06:17:57.178Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "gRPCClient\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:17:50.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T06:17:50.883Z"
             }
           ]
         },

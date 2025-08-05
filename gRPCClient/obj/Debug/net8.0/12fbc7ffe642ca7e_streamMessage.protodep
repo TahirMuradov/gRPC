@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/StreamMessage.cs \
+obj\Debug\net8.0\Protos/StreamMessageGrpc.cs: Protos/streamMessage.proto
